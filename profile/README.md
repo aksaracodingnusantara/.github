@@ -1,12 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# Aksara Coding Nusantara 
 
-**Here are some ideas to get you started:**
+### Komunitas Developer - Developer Muda 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Siap membangun indonesia emas 2045
+
+[![Website](https://img.shields.io/badge/Website-aksaracoding.vercel.app-black?style=for-the-badge)](https://aksaracoding.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283160325595)
+[![Instagram](https://img.shields.io/badge/Instagram-@rakitweb__id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rakitweb_id)
+
+</div>
+
+---
+
+## ✨ Siapa Kami?
+
+RakitWeb adalah layanan digital Indonesia yang fokus membantu bisnis berkembang melalui website modern, server management, dan aplikasi custom. pada ekosistem internet indonesia
+
+---
+
+##  Services
+
+<div align="center">
+
+| Service | Description |
+|:---:|:---:|
+| Website Development | Company profile, landing page, toko online |
+| Hosting & Server | VPS setup, domain, Cloudflare, panel installation |
+| Game Server | Minecraft, CS:GO, GTA & custom server |
+| Android App | Custom Android application & API integration |
+| Maintenance | Monitoring, optimization & technical support |
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,nodejs,nestjs,express,laravel,php,java,kotlin,androidstudio,mysql,postgres,mongodb,redis,docker,kubernetes,linux,nginx,cloudflare,vercel,firebase,supabase,prisma,vite,bun,git,github,gitlab,postman,bash,ubuntu,cpp,cs,py,go,rust,graphql,sqlite,webpack,pinia,vitest,jest,figma,ps,ai" />
+</p>
+
+
+---
+
+## 📍 Contact
+
+```bash
+HQ        : Semarang, Indonesia
+Timezone  : GMT+7
+Email     : halo@rakitweb.dev
+WhatsApp  : +62 851-8715-3883
+Instagram : @rakitweb_id
+```
+
+---
+
+<div align="center">
+
+### Konsultasi Gratis via WhatsApp 📲
+
+<sub>© 2026 RakitWeb — Build Better Digital Experiences.</sub>
+
+</div>
