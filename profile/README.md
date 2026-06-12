@@ -16,7 +16,7 @@ Siap membangun indonesia emas 2045
 
 ## ✨ Siapa Kami?
 
-RakitWeb adalah layanan digital Indonesia yang fokus membantu bisnis berkembang melalui website modern, server management, dan aplikasi custom. pada ekosistem internet indonesia
+Aksara Coding Nusantara adalah sebuah komunitas developer-developer muda yang membuat berbagai project project yang semoga dapat bermanfaat bagi masyarakat dan dunia
 
 ---
 
