@@ -8,7 +8,7 @@ Siap membangun indonesia emas 2045
 
 [![Website](https://img.shields.io/badge/Website-aksaracoding.vercel.app-black?style=for-the-badge)](https://aksaracoding.vercel.app)
 [![Github](https://img.shields.io/badge/Github-aksaracodingnusantara-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aksaracodingnusantara)
-[![Instagram](https://img.shields.io/badge/Instagram-@rakitweb__id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rakitweb_id)
+[![Discord](https://img.shields.io/badge/Discord-AksaraCoding-E4405F?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/rakitweb_id)
 
 </div>
 
