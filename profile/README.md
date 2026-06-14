@@ -20,22 +20,6 @@ Aksara Coding Nusantara adalah sebuah komunitas developer-developer muda yang me
 
 ---
 
-##  Services
-
-<div align="center">
-
-| Service | Description |
-|:---:|:---:|
-| Website Development | Company profile, landing page, toko online |
-| Hosting & Server | VPS setup, domain, Cloudflare, panel installation |
-| Game Server | Minecraft, CS:GO, GTA & custom server |
-| Android App | Custom Android application & API integration |
-| Maintenance | Monitoring, optimization & technical support |
-
-</div>
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -48,19 +32,13 @@ Aksara Coding Nusantara adalah sebuah komunitas developer-developer muda yang me
 ## 📍 Contact
 
 ```bash
-HQ        : Semarang, Indonesia
-Timezone  : GMT+7
-Email     : halo@rakitweb.dev
-WhatsApp  : +62 851-8715-3883
-Instagram : @rakitweb_id
+HQ        : Bandung, Jawa Barat, Indonesia
 ```
 
 ---
 
 <div align="center">
 
-### Konsultasi Gratis via WhatsApp 📲
-
-<sub>© 2026 RakitWeb — Build Better Digital Experiences.</sub>
+<sub>© 2026 Aksara Coding Nusantara </sub>
 
 </div>
